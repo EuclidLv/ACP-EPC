@@ -38,7 +38,7 @@ The ACP-EPC web server is freely available at:
 
 ---
 
-## 📊 Performance
+##  Performance
 
 ### Overall Metrics
 
@@ -60,7 +60,7 @@ ACP-EPC consistently outperforms existing baselines across two datasets.
 
 ---
 
-### 📌 Comparative Performance
+###  Comparative Performance
 
 **Table 4. Performance comparison of ACP-EPC with existing methods on ACP135.**
 
