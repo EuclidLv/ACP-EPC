@@ -30,11 +30,11 @@ A user-friendly **web server** is also provided for public access.
 ##  Web Server
 
 The ACP-EPC web server is freely available at:  
- [http://121.36.197.223:45131/](http://121.36.197.223:45131/)
+ [ACP-EPC](http://121.36.197.223:45131/)
 
 **Notes:**  
 1. The web server only accepts sequences with length **< 1024**.  
-2. For questions, please contact us at: *your_email@domain.com*  
+2. For questions, please contact us at: *jingweieuclid@gmail.com*  
 
 ---
 
