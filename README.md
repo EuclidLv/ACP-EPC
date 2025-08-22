@@ -38,7 +38,7 @@ The ACP-EPC web server is freely available at:
 
 ---
 
-## 📊 Dataset Statistics
+##  Dataset Statistics
 
 <img width="865" height="288" alt="image" src="https://github.com/user-attachments/assets/b7813805-c63a-436f-8584-117a70fec072" />
 
