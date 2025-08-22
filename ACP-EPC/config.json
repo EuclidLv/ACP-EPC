@@ -1,0 +1,13 @@
+{
+    "Python": "3.8.18",
+    "PyTorch": "1.11.0",
+    "CUDA (torch)": "11.3",
+    "cuDNN (torch)": 8200,
+    "NumPy": "1.24.3",
+    "Pandas": "2.0.3",
+    "scikit-learn": "1.3.0",
+    "Biopython": "1.79",
+    "ESM (fair-esm)": "2.0.0",
+    "matplotlib": "3.7.2",
+    "tqdm": "4.66.5"
+}
