@@ -29,7 +29,7 @@ The webserver we provide can be access at [ACP-EPC](http://121.36.197.223:45131/
    
 ### 3. Data
    
-   (a). This director contain the trained weight, training data, evaluate data and also the result.
+   (a). This folder contain the trained weight, training data, evaluate data and also the result.
    
 NOTE:
    All the path in the codes should replaced with your own path
