@@ -38,6 +38,17 @@ The ACP-EPC web server is freely available at:
 
 ---
 
+## 📊 Dataset Statistics
+
+<img width="865" height="288" alt="image" src="https://github.com/user-attachments/assets/b7813805-c63a-436f-8584-117a70fec072" />
+
+
+**Figure 2. Dataset profiles.**  
+(A) Amino acid frequency distribution of the training dataset and two testing datasets (ACP135, ACP99).  
+(B) Peptide length distributions for the training dataset and the two testing datasets.  
+
+---
+
 ##  Performance
 
 ### Overall Metrics
